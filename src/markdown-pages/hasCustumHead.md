@@ -1,7 +1,4 @@
 ---
-slug: "/blog/my-first-post"
-date: "2019-05-04"
-title: "My first blog post"
 AUTHOR: satomi_yoshizawa
 TITLE: 上場とは？スケジュールとメリット・デメリットを解説
 BASENAME: listing_schedule

@@ -1,7 +1,4 @@
 ---
-slug: "/blog/my-second-post"
-date: "2019-05-05"
-title: "My second blog post"
 AUTHOR: tashiro_anygraphica
 TITLE: 会社名を決めるときのルール・ポイントとは？26社の実例から学ぶネーミングアイデア集
 BASENAME: companyname-disision
