@@ -1,4 +1,5 @@
 ---
+slug: /kb-launch/companyname-disision/
 AUTHOR: tashiro_anygraphica
 TITLE: 会社名を決めるときのルール・ポイントとは？26社の実例から学ぶネーミングアイデア集
 BASENAME: companyname-disision
